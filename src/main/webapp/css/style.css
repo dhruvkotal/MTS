@@ -1,0 +1,20 @@
+
+.btn{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+    width: 25%;
+    order-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer
+}
+.card{
+    padding: 5%;
+    background: #0062cc;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+ }
+ h3{
+     text-align: center;
+     color: #333;
+     }
